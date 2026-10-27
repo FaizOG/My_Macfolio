@@ -1,0 +1,44 @@
+{
+  "hash": "353d1a6e",
+  "configHash": "76a6a59c",
+  "lockfileHash": "c571c3be",
+  "browserHash": "2b84542d",
+  "optimized": {
+    "gsap": {
+      "src": "../../node_modules/gsap/index.js",
+      "file": "gsap.js",
+      "fileHash": "d586f2da",
+      "needsInterop": false
+    },
+    "gsap/Draggable": {
+      "src": "../../node_modules/gsap/Draggable.js",
+      "file": "gsap_Draggable.js",
+      "fileHash": "3f83b7ea",
+      "needsInterop": false
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "4c1c4aa6",
+      "needsInterop": true
+    },
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "1424c326",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../node_modules/react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "2da36b2c",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "rolldown-runtime-BvCyGRYZ": {
+      "file": "rolldown-runtime-BvCyGRYZ.js",
+      "isDynamicEntry": false
+    }
+  }
+}
